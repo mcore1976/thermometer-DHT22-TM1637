@@ -43,4 +43,6 @@ TM1637 module - DIO LINE - connect to PB0 ( PIN #5 ) on ATTINY 13
 
 TM1637 module - CLK LINE - connect to PB1 ( PIN #6 ) on ATTINY 13
 
-That's all. The code is ~950 bytes long after compilatiion. Must be compiled by AVR-GCC environment on Linux or Windows.
+That's all. The code is ~950 bytes long after compilation. Must be compiled by AVR-GCC environment on Linux or Windows.
+
+Link to video how to program the chip : https://www.youtube.com/watch?v=7klgyNzZ2TI
